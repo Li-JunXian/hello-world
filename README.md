@@ -1,3 +1,4 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
-This is made by Li Jun Xian on July 04 2025.
+# About me
+
+My name is Li Jun Xian.
+This was created on July 04 2025.
